@@ -1,4 +1,4 @@
-# OSPF-Multi-Area-Network-Lab
+# Multi-Area OSPF Enterprise Network Deployment (GNS3)
 Implementation of Multi-Area OSPF routing protocol with route summarization and authentication in a simulated enterprise network
 
 # OSPF Multi-Area OSPFv2 Network Lab
